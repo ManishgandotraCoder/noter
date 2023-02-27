@@ -1,0 +1,22 @@
+.header {
+    background-color: #FF4D4F;
+    padding: 8px;
+    
+}
+.text {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 30px;
+}
+.input {
+    width: 70%;
+    margin-left: 30px;
+}
+.avatar {
+    height: 45px;
+    width: 45px;
+    margin-left: 30px;
+    cursor: pointer;
+}

@@ -1,0 +1,29 @@
+.col {
+    width: 240px;   
+    background-color: white;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.row {
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    
+
+}
+
+.image {
+    max-width: 160px;
+
+}
+
+.imagetext {
+    font-family: cursive;
+    font-size: 12px;
+}
+.button {
+    width: 100%;
+}
